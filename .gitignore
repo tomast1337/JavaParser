@@ -1,0 +1,12 @@
+# Maven target directory
+target/
+
+# Maven build files
+pom.xml.*
+!pom.xml
+!pom.xml.template
+
+# Eclipse project files
+.classpath
+.project
+.settings/
